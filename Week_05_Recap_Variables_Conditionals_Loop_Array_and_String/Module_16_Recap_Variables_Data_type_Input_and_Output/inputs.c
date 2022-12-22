@@ -8,7 +8,7 @@ int main()
     getchar();
     ch2 = getchar();
 
-    printf("%c and %d",ch,ch2);
+    printf("%c and %c",ch,ch2);
 
     return 0;
 }

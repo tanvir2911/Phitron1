@@ -5,6 +5,6 @@ int main()
     int *p=&a;
     int **q=&p;
     **q=22;
-    printf("%d", *p);
+    printf("%d", a);
     return 0;
 }
